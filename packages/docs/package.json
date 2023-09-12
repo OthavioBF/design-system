@@ -25,6 +25,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
+    "deploy-storybook": "storybook-to-ghpages",
     "build-storybook": "storybook build",
     "init-msw": "msw init public/"
   },
